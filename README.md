@@ -11,7 +11,7 @@ CBIS-DDSM es la base de datos que se usó en estos experimentos y es una de las 
 
 ![Calc](./docs/Calc.png)
 
-En las imágenes de arriba se muestran (de izquierda a derecha) las mastografías completas, luego las máscaras utilizadas para obtener parches en donde se encuentran las **anormalidades (masas - calcificaciones)**, esto debido a que no es necesario trabajar con toda la mamografía completa para implementar una **red neuronal convolucional (CNN)**, por lo que los parches son las imágenes con las que se trabajó en este tema de Tesis.
+En las imágenes de arriba se muestran (de izquierda a derecha) las mastografías completas (original), luego las máscaras (ROI) utilizadas para obtener parches (Cropped) en donde se encuentran las **anormalidades (masas - calcificaciones)**, esto debido a que no es necesario trabajar con toda la mamografía completa para implementar una **red neuronal convolucional (CNN)**, por lo que los parches son las imágenes con las que se trabajó en este tema de Tesis.
 
 Cabe mencionar que la base de datos se puede descargar por partes, es decir, se pueden descargar las mastografías completas, de las cuales se extrajeron las **anormalidades**, o bien las máscaras con los parches extraídos. Cabe mencionar que para obtener la infrmación de los pacientes y con  poder obtener las etiquetas correspondientes, es necesario descargar los archivos csv localizados en las carpetas.
 
