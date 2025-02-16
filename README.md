@@ -27,7 +27,7 @@ La finalidad de este repositorio es el de mostrar cómo es que se pudieron resca
 
 2) **Utilizando la información de los archivos DICOM**. **PYDICOM** es un paquete de **Python** que sirve para leer archivos DICOM, los cuales almacenan bastante información. Este paquete sirvió para visualzar los archivos DICOM y fue muy útil en la obtención de manera "más rápida" de los parches así como sus etiquetas, por lo que esta forma de obtenerlos es la que se presenta en este repositorio.
 
-Cabe mnecionar que con las dos formas se obtuvieron el mismo número de imágenes! Puede ver el análisis realizado para la obtención de los parches relacionados con las Masas [aquí](./labeled_cropped_MASS.ipynb), ya que el relacionado con las Calcificaciones es bastante parecido. Por lo que después de realizar este análisis se pudieron obtener unas estadísticas más específicas (relacionadas con las patologías de las mamografías) que las que obtuvo Mracko. Éstas se muestran a continuación sin contemplar las etiquetadas con *BWC*.
+Cabe mnecionar que con las dos formas se obtuvieron el mismo número de imágenes! **Puede ver el análisis realizado para la obtención de los parches relacionados con las Masas [aquí](./labeled_cropped_MASS.ipynb)**, ya que el relacionado con las Calcificaciones es bastante parecido. Por lo que después de realizar este análisis se pudieron obtener unas estadísticas más específicas (relacionadas con las patologías de las mamografías) que las que obtuvo Mracko. Éstas se muestran a continuación sin contemplar las etiquetadas con *BWC*.
 
 ![Estadísticas Obtenidas](./docs/estadisticas.png)
 
