@@ -1,4 +1,4 @@
-# EDA_CBIS-DDSM
+# EDA CBIS-DDSM
 
 En breve **puede ver el análisis realizado para la obtención de los parches relacionados con las Masas [aquí](./labeled_cropped_MASS.ipynb)**, el cual ayudó a obtener y etiquetar de manera correcta los parches (imágenes) relacionados con las masas que contiene la base de datos CBIS-DDSM y que forman parte de las imágenes con las que se trabajó el Tema de tesis. **Para más contexto puede seguir leyendo y econtrará el link más abajo**.
 
